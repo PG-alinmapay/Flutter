@@ -1,21 +1,61 @@
-<<<<<<< HEAD
-# sample_demo_app
+# AlinmaPay PG – Flutter Demo App
 
-A new Flutter project.
+This repository contains a **Flutter Demo Application** for testing the **AlinmaPay Payment Gateway (PG) SDK**, including **Apple Pay** and **card-based transactions**.
 
-## Getting Started
+The app is intended for **internal testing, QA validation, and integration reference** when working with the AlinmaPay PG Flutter SDK.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🔧 SDK & Framework Information
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter Plugin Version:** `v3.0.3`
+- **Framework:** Flutter `v3.29.1`
+- **Supported Platforms:** Mobile Only
+  - Android
+  - iOS
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Flutter
-The official AlinmaPay PG Flutter plugin
->>>>>>> 692f27b5408aea573218c5892208f10742f808a5
+---
+
+## 📱 Platform Details
+
+### Android
+- **Current SDK Version Provided:** `36.0.0`
+- **Minimum Android Version Supported:** Android API Level **21**
+- **Build System:** Gradle
+
+### iOS
+- **Current iOS SDK Version Provided:** `12.0`
+- **Xcode Version:** `v26.0`
+- **Apple Pay Support:** ✅ Yes
+
+---
+
+## 💳 Supported Payment Methods
+
+- Apple Pay
+- Card Payments (Debit / Credit)
+
+> Apple Pay functionality requires proper merchant configuration, certificates, and entitlements on iOS.
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Flutter SDK `v3.29.1`
+- Dart (bundled with Flutter)
+- Android Studio / Android SDK
+- Xcode `v26.0` (for iOS)
+- Valid AlinmaPay PG credentials
+
+---
+
+### Install Dependencies
+- flutter pub get
+- cd ios/
+- pod install
+- flutter Run
+  
+
+```bash
+flutter pub get
