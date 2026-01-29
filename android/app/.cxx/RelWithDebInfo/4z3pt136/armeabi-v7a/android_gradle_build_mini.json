@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/admin/Documents/Flutter_SDK/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/admin/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/admin/Documents/Flutter/AlinmaPay/SampleDemoApp/android/app/.cxx/RelWithDebInfo/4z3pt136/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/admin/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/admin/Documents/Flutter/AlinmaPay/SampleDemoApp/android/app/.cxx/RelWithDebInfo/4z3pt136/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

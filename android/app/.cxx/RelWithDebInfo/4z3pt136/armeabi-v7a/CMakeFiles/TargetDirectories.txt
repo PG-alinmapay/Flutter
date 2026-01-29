@@ -1,0 +1,2 @@
+/Users/admin/Documents/Flutter/AlinmaPay/SampleDemoApp/android/app/.cxx/RelWithDebInfo/4z3pt136/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/admin/Documents/Flutter/AlinmaPay/SampleDemoApp/android/app/.cxx/RelWithDebInfo/4z3pt136/armeabi-v7a/CMakeFiles/rebuild_cache.dir

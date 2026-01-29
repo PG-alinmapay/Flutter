@@ -1,0 +1,10 @@
+{
+  "merchantKey":"c6db90a9d31cd620a34b8f70bed27b1a35a82a34a13d01c1d4befa45a634e899",
+  "terminalId":  "TER2233893",
+  "terminalPass": "TER26011944544352675243",
+  "requestUrl":"https://pg.alinmapay.com.sa/SB_Transactions/v2/payments/pay-request",
+  "projectpath": "/Users/admin/Documents/Flutter/Flutter_Hosted_v2/SampleDemoApp/"
+}
+
+
+
